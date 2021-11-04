@@ -1,0 +1,38 @@
+body {
+    background:#24F205;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.assignment img {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: #FFF;
+}
+
+.assignment img { 
+    width: 200px;
+    margin:10px;
+    border: 4px solid #DC143C;
+}
+  
+.assignment img :hover{
+    border: 4px dashed #F29F05;
+}
+
+hl {
+    color: #800000;
+    text-align: center;
+}
+
+hl hover{
+    color: #F272A1;
+}
+a {
+    text-decoration: none;
+    color:#FFF;
+}
+
+a:hover{
+    color: #DC143C;
+}
